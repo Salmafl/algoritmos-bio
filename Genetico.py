@@ -1,7 +1,7 @@
 
 
 geneSet = 'abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ '
-target = 'Jose Roberto'
+target = 'Salma flores'
 
 import datetime
 import random
